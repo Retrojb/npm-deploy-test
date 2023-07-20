@@ -1,0 +1,11 @@
+{
+  "name": "@retrojb/npm-deploy-test",
+  "version": "1.0.0",
+  "description": "Testing NPM publishing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "retrojb",
+  "license": "UNLICENSED"
+}
