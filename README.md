@@ -1,3 +1,11 @@
-Test to see if this is deployable. 
+Testing NPM publishing
 
-Should return a console log
+Should be a named export
+
+`npm i @retrojb/npm-test-deploy`
+
+Usage
+
+`import {helloNpm} from '@retrojb/npm-deploy-test';`
+
+Should return the arg in all caps. Utilizes the WHOLE lodash package.
