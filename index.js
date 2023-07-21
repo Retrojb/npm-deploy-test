@@ -1,4 +1,3 @@
-
-export function helloNpm(arg) {
-    console.log(`Welcome to this NPM package ${arg}`)
+exports.printMsg = function() {
+    console.log("This is a message from the demo package");
 }
