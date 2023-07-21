@@ -1,3 +1,6 @@
-exports.printMsg = function() {
-    console.log("This is a message from the demo package");
+
+function helloNpm(arg) {
+    console.log(`Welcome to this NPM package ${arg}`)
 }
+
+export default { helloNpm }

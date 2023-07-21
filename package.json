@@ -1,6 +1,7 @@
 {
   "name": "@retrojb/npm-deploy-test",
   "version": "1.0.1",
+  "type": "module",
   "description": "Testing NPM publishing",
   "main": "index.js",
   "scripts": {
